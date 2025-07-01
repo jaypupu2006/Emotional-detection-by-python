@@ -6,8 +6,8 @@
 3. pip install tensorflow
 
 ไฟล์ที่จำเป็น
-<p>1. ใส่ภาพตัวเองแบบ jpg ในโฟลเดอร์เดียวกันที่เก็บไฟล์ เพื่อไว้ให้รู้ว่าเป็นเรา</p>
-<p>2. เก็บไฟล์ .xml นี้ไว้ในโฟลเดอร์เดียวกัน</p>
+<p>1. ใส่ภาพตัวเองแบบ jpg ในโฟลเดอร์เดียวกันที่เก็บไฟล์ เพื่อไว้ให้รู้ว่าเป็นเรา *อย่าลืมเปลี่ยน phudinan ในโค้ดเป็นชื่อคุณด้วย*</p>
+<p>2. เก็บไฟล์ .xml นี้ไว้ในโฟลเดอร์เดียวกัน</p> ([click-me](https://github.com/jaypupu2006/Emotional-detection-by-python/blob/main/haarcascade_frontalface_default.xml))
 <p>
   3. run ใน vs code รวดดดดดด
 </p>
